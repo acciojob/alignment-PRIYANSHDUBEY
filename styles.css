@@ -1,1 +1,71 @@
-/*  your css code here. If applicable */
+*{
+ margin: 0px;
+ padding: 0px;
+
+}
+
+.headings{
+    text-align: center;
+}
+
+#table-1{
+    border: 1px oslid black;
+    border-collapse: collapse;
+    border-top: 2px solid black;
+    border-style: double;
+}
+
+#table-1 td {
+    width: 80vh;
+ border: 1px solid black;
+ border-style:double;
+}
+
+.left{
+    text-align: left;
+}
+
+.center{
+    text-align: center;
+}
+
+.right{
+    text-align: right;
+}
+
+#table-2{
+  border: 1px solid black;
+   width: 100%;
+}
+
+
+#table-2 td{
+    border: 1px solid black;
+}
+
+
+#table-3{
+    border: 1px solid black;
+    width: 100%;
+}
+
+#table-3 td{
+    border: 1px solid black;;
+}
+
+
+#t3r1{
+    background-color: green;
+}
+
+#t3r3{
+    background-color: blue;
+}
+
+#t3r2c1{
+    width: 25%;
+}
+
+#t3r2c2{
+    width: 45%;
+}
