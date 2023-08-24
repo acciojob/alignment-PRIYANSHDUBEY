@@ -8,14 +8,20 @@
     text-align: center;
 }
 
+.middle tr td{
+	padding: 1px ;
+	
+}
+
 #table-1{
-    border: 1px oslid black;
+    border: 1px solid black;
     border-collapse: collapse;
     border-top: 2px solid black;
     border-style: double;
 }
 
 #table-1 td {
+	
     width: 80vh;
  border: 1px solid black;
  border-style:double;
