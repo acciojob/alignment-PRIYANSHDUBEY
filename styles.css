@@ -3,13 +3,9 @@
     text-align: center;
 }
 
-.middle{
-	
-}
-.middle  td{
-	padding: 1px ;
+.middle  *td{
+	padding: 1px;
 	border: 1px solid rgb(0,0,0);
-	
 }
 
 #table-1{
