@@ -3,7 +3,9 @@
     text-align: center;
 }
 
-
+.middle *td{
+	padding: 1px;
+}
 
 #table-1{
     border: 1px solid black;
@@ -13,7 +15,7 @@
 }
 
 #table-1 td {
-	padding: 1px;
+	
 	
     width: 80vh;
  border: 1px solid black;
@@ -40,7 +42,6 @@
 
 #table-2 td{
     border: 1px solid black;
- padding: 1px;
 }
 
 
@@ -51,7 +52,7 @@
 
 #table-3 td{
     border: 1px solid black;;
-padding: 1px;
+
 }
 
 
