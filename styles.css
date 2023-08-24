@@ -1,16 +1,14 @@
-*{
- margin: 0px;
- padding: 0px;
-
-}
 
 .headings{
     text-align: center;
 }
 
+.middle{
+	
+}
 .middle  td{
 	padding: 1px ;
-	border: 1px solid black;
+	border: 1px solid rgb(0,0,0);
 	
 }
 
