@@ -8,13 +8,14 @@
         }
 
 #table-1{
+	  width: 80vh;
     border: 1px solid black;
     border-collapse: collapse;
     border-top: 2px solid black;
     border-style: double;
 }
 
-#table-1 td{	
+#table-1 {	
     width: 80vh;
  border: 1px solid black;
  border-style:double;
